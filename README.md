@@ -38,3 +38,20 @@ Overview
       ```bash
       $ sh clean.sh
       ```
+Preview
+![image](https://github.com/marsfun/elk-graphsearch/blob/master/_img/trun_on_monitor.png)
+![image](https://github.com/marsfun/elk-graphsearch/blob/master/_img/start_trial.png)
+![image](https://github.com/marsfun/elk-graphsearch/blob/master/_img/set_a_index_pattern.png)
+![image](https://github.com/marsfun/elk-graphsearch/blob/master/_img/set_dbpedialinks_pattern.png)
+![image](https://github.com/marsfun/elk-graphsearch/blob/master/_img/search_person.png)
+![image](https://github.com/marsfun/elk-graphsearch/blob/master/_img/go_into_graph.png)
+![image](https://github.com/marsfun/elk-graphsearch/blob/master/_img/search_person_related.png)
+![image](https://github.com/marsfun/elk-graphsearch/blob/master/_img/drilldown_a_related_entity.png)
+![image](https://github.com/marsfun/elk-graphsearch/blob/master/_img/drilldown_to_wiki.png)
+![image](https://github.com/marsfun/elk-graphsearch/blob/master/_img/drilldown_to_wiki_result.png)
+
+
+
+
+
+
