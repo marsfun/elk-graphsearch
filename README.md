@@ -9,9 +9,9 @@ and the visualization power of Kibana.
 Overview
 
 1. `Prepare`
-    * first, we should download the DBpeida data from website by executing the download.sh in indexDBpedia folder.
+    * first, we should download the DBpeida data from website by executing the download.sh <font color=red>__in indexDBpedia folder__</font>.
       ```bash
-      $ sh indexDBpedia/download.sh
+      $ sh download.sh
       ```
     * Build graph_data's docker images
       ```bash
@@ -38,3 +38,4 @@ Overview
       ```bash
       $ sh clean.sh
       ```
+Preview
